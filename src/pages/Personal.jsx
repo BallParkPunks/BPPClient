@@ -1,5 +1,6 @@
 export default function Personal() {
+  console.log('personal')
   return (
-    <div>Personal</div>
+    <div></div>
   )
 }
